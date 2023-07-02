@@ -1,0 +1,4 @@
+./dist
+.editorconfig
+./node_modules
+./db
